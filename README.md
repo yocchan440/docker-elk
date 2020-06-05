@@ -1,2 +1,2 @@
 # docker-elk
-docker-elkなのにkibanaはない
+docker-elkなのにlogstashはない
